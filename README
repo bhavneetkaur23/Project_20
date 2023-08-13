@@ -1,0 +1,8 @@
+POPULARITY ON SPOTIFY
+
+Project Description:
+This project aims to conduct a thorough data analysis and classification task. 
+Starting with dataset acquisition, we focus on understanding and cleaning the data. 
+Exploring the concept of popularity within the dataset, we select a subset for analysis and choose relevant features. 
+Preprocessing and preparing the features, we split the data for training and testing. We then apply various classification techniques, including ordinal logistic regression, KNN, and a multiclass Random Forest model. 
+The project focuses on gaining insights, refining features, selecting appropriate models, and optimizing their performance.
